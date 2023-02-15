@@ -1,2 +1,3 @@
-__pycache__
-db/login.db
+.idea
+/api_sqlite/__pycache__
+/api_sqlite/db/login.db
